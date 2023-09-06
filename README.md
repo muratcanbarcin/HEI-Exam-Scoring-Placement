@@ -15,8 +15,10 @@ The number of candidates is dynamic (maximum 40).
 ##### Departments
 
 The quota information related to the departments is read from a text file, named departments.txt, in the following format:
+
 `dept-no, dept-name, quota
 `
+
 The number of departments is dynamic (maximum 10).
 The maximum quota for any department is 8.
 
